@@ -1,6 +1,6 @@
-# Build an AI Agent from Scratch Workshop
+# AI Agent
 
-- Watch the workshop on [Frontend Masters](https://frontendmasters.com/workshops/build-ai-agent/). 
+- Watch the workshop on [Frontend Masters](https://frontendmasters.com/workshops/build-ai-agent/).
 - View the [course notes](https://clumsy-humor-894.notion.site/Agent-from-scratch-13554fed51a380749554c44aa8989406?pvs=4)
 
 ## Setup Instructions
@@ -31,4 +31,7 @@ Create an [API Key from OpenAI](https://platform.openai.com/settings/organizatio
 ```
 OPENAI_API_KEY='YOUR_API_KEY'
 ```
+
 # AI-Agent
+
+Special thanks to FEM for the starter code
